@@ -1,0 +1,21 @@
+num = int(input("Digite um número para mostrar sua tabuada: "))
+
+num2 = num * 1
+print('1 x {} = {}'.format(num, num))
+print('2 x {} = {}'.format(num, num2))
+num3 = num * 3
+print('3 x {} = {}'.format(num, num3))
+num4 = num * 4
+print('4 x {} = {}'.format(num, num4))
+num5 = num * 5
+print('5 x {} = {}'.format(num, num5))
+num6 = num * 6
+print('6 x {} = {}'.format(num, num6))
+num7 = num * 7
+print('7 x {} = {}'.format(num, num7))
+num8 = num * 8
+print('8 x {} = {}'.format(num, num8))
+num9 = num * 9
+print('9 x {} = {}'.format(num, num9))
+num10 = num * 10
+print('10 x {} = {}'.format(num, num10))
